@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+# Prepare the destination directory
+mkdir -p ""$HOME"/Documents/firefox-backup"
+
+# Copy all the Firefox profiles to the destination
+cp -pRfiv ""$HOME"/Library/Application Support/Firefox/Profiles/" ""$HOME"/Documents/firefox-backup/"
