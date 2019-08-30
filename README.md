@@ -1,4 +1,4 @@
-# Firefox: Manual Backup
+# Firefox Profile Backup
 
 If the Firefox's built-in syncing is not enough, these short scripts make the hard-copy backup of all the profiles' data. For information about Firefox profiles, please refer to [this Mozilla Support article](https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data).
 
